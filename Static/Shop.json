@@ -25,5 +25,29 @@
       "OneTimeOffer": false,
       "Claimed": false
     }
-  ]
-}
+  ],
+  "Currency": 10,
+
+      "Cost": 5000,
+
+      "Time": 461036,
+
+      "Claim": false,
+
+      "DailyOffer": false,
+
+      "OldPrice": 5,
+
+      "Text": "None",
+
+      "Background": "None",
+
+      "Processed": false,
+
+      "TypeBenefit": 0,
+
+      "Benefit": 0,
+
+      "OneTimeOffer": false,
+
+      "Claimed": false
